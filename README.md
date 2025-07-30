@@ -1,1 +1,1 @@
-# Jam-Reut-ml-logistic-regression
+# ml-logistic-regression
