@@ -16,6 +16,10 @@ Das Ziel ist, vorherzusagen, ob ein Nutzer auf eine Anzeige klickt oder nicht.
 
 ### 🎯 Ergebnis
 
+- Trainingsdaten werden eingelesen
+- Datensätze werden visualisiert
+- Logistic Regression wird trainiert
+- Ergebnisse & Konfusionsmatrix werden angezeigt
 - Modelltraining mit Scikit-Learn
 - Visualisierung mit Matplotlib und Seaborn
 - Klassifikationsergebnisse und Metriken (Accuracy, Confusion Matrix)
