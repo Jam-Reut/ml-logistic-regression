@@ -7,6 +7,14 @@
 Dieses Projekt führt eine logistische Regression auf dem Werbedatensatz durch.  
 Das Ziel ist, vorherzusagen, ob ein Nutzer auf eine Anzeige klickt oder nicht.
 
+## Projektstruktur
+
+ml-logistic-regression/
+├── advertising.csv
+├── logistic-regression.ipynb
+├── README.md
+└── .ipynb_checkpoints/
+
 ### 🔧 Ausführen
 
 1. Klicke auf den **Binder-Button oben**
