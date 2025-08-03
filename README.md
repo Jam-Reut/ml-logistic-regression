@@ -10,10 +10,10 @@ Das Ziel ist, vorherzusagen, ob ein Nutzer auf eine Anzeige klickt oder nicht.
 ## Projektstruktur
 
 ml-logistic-regression/
-├── advertising.csv
-├── logistic-regression.ipynb
-├── README.md
-└── .ipynb_checkpoints/
+   ├── advertising.csv
+   ├── logistic-regression.ipynb
+   ├── README.md
+   └── .ipynb_checkpoints/
 
 ### 🔧 Ausführen
 
